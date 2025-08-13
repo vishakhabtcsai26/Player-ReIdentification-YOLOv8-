@@ -22,11 +22,6 @@ The goal is to detect players and consistently assign the same **unique ID** to 
 > *(You can embed a demo here using a gif or link to a video)*  
 > Replace below with your hosted video link or embed preview.
 
-[🔗 Click here to watch the demo]( 
-https://www.canva.com/design/DAGsjwgg1LY/ubNe87FZSoasmTFdbmREzQ/edit?utm_content=DAGsjwgg1LY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-📁 `reid_output.mp4` → Final output with IDs and bounding boxes.
-
----
 
 ## 🛠️ Tech Stack
 
